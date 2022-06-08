@@ -31,6 +31,10 @@ fieldset {
   margin: 5%;
 }
 
+.reem {
+  object-fit: contain;
+}
+
 button {
   width: 25%;
   font-size: 1.5rem;
