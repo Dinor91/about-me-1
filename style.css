@@ -1,0 +1,87 @@
+body {
+  background-image: url("summer.jpg");
+  background-size: cover;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#butt {
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  text-align: center;
+}
+
+nav {
+  padding: 2%;
+  text-align: center;
+}
+
+legend {
+  font-size: 2rem;
+}
+
+fieldset {
+  background-color: #d6ebad;
+  font-size: 1.2rem;
+  margin: 5%;
+}
+
+.head {
+  margin: 5%;
+}
+
+button {
+  width: 25%;
+  font-size: 1.5rem;
+  background-color: rgb(83, 96, 101);
+}
+
+a {
+  color: rgb(200, 225, 17);
+}
+
+#mail {
+  color: rgb(201, 19, 19);
+}
+
+.soc {
+  color: rgb(201, 19, 19);
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.skill_per {
+  padding-bottom: 20px;
+}
+
+.jobdesc {
+  padding-bottom: 20px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+button {
+  background-color: rgb(40, 209, 209);
+}
