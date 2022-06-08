@@ -1,6 +1,6 @@
 body {
   background-image: url("summer.jpg");
-  background-size: auto;
+  background-size: contain;
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif;
 }
