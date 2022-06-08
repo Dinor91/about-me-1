@@ -31,8 +31,13 @@ fieldset {
   margin: 5%;
 }
 
-.reem {
-  object-fit: contain;
+.box img {
+  width: 100%;
+  height: 100%;
+}
+
+.box1 img {
+  object-fit: cover;
 }
 
 button {
