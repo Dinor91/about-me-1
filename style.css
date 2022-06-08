@@ -37,7 +37,7 @@ fieldset {
 }
 
 .box1 img {
-  object-fit: cover;
+  object-fit: contain;
 }
 
 button {
