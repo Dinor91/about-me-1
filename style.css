@@ -32,12 +32,11 @@ fieldset {
 }
 
 .box img {
-  width: 50%;
-  height: 50%;
+  width: 611px;
 }
 
 .box1 img {
-  object-fit: contain;
+  object-fit: ;
 }
 
 button {
