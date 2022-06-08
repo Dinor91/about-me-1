@@ -37,7 +37,7 @@ fieldset {
 }
 
 .box1 img {
-  object-fit: contain;
+  width: 50%;
 }
 
 button {
